@@ -2,14 +2,9 @@ body {
     background-image: url("bg.jpg");
 
 }
-p {
+p, h1 {
     color: white;
     text-align: center;
-}
-
-h1 {
-    text-align: center;
-    color: white;
 }
 
 .centre {
