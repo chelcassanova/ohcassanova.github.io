@@ -1,10 +1,13 @@
 body {
     background-image: url("bg.jpg");
-
 }
 p, h1 {
     color: white;
     text-align: center;
+}
+
+a:visited {
+    color: darkgreen;
 }
 
 .centre {
@@ -12,7 +15,6 @@ p, h1 {
     margin-left: auto;
     margin-right: auto;
 }
-
 .sports {
     background-image: url("raps.gif");
 }
